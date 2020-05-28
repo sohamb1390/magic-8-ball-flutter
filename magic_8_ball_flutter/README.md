@@ -10,4 +10,6 @@ The final outcome of this App is a tappable image showing in the centre of the d
 When you keep on tapping the image, it will keep changing!
 
 I have used **dart:math** library to use the random calculation of choosing image numbers.
-I have implemented a **StatefulWidget** to change the states of the image.
+Also, I have implemented a **StatefulWidget** to change the states of the image.
+
+_Learning Source: https://www.udemy.com/course/flutter-bootcamp-with-dart/learn/lecture/13930558#overview_
