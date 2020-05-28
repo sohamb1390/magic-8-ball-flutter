@@ -6,11 +6,8 @@ A decision making Flutter app.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+The final outcome of this App is a tappable image showing in the centre of the device.
+When you keep on tapping the image, it will keep changing!
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I have used **dart:math** library to use the random calculation of choosing image numbers.
+I have implemented a **StatefulWidget** to change the states of the image.
