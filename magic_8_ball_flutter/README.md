@@ -1,4 +1,4 @@
-# magic8ballflutter
+# Magic 8 Ball
 
 A decision making Flutter app.
 
